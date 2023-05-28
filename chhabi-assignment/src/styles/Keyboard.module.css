@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(232, 228, 234);
+    font-size: 18px;
+}
+
+p{
+    font-weight: bold;
+    font-size: 22px;
+    color: black;
+}
+h1{
+    color:green;
+    color: black;
+}
+/*container  */
+
+.container{
+    background-color: rgb(64, 214, 69);
+    margin: auto;
+    max-width: 40%;
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 50px;
+
+}
+/* keyboard key css */
+.keyboardKeys{
+    display: flex;
+    max-width:620px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    font-size: 35px;
+    justify-content: center;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: black;
+    border-radius: 10px;
+    border: none;
+}
+/* input box css */
+input{
+    background-color: rgb(207, 233, 15);
+    max-width: 400px;
+    height: 50px;
+    border-radius: 20px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+
+/* restart button  css  */
+button{
+    border-color: rgb(207, 38, 38);
+    height: 60px;
+    width: 180px;
+    font-size: 22px;
+    border-radius: 12px;
+    background-color: rgb(38, 17, 224);
+    color:white;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(0, 255, 98);
+}
