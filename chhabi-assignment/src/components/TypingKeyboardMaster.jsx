@@ -7,12 +7,12 @@ const TypingKeyboardMaster = () => {
   const [endTime, setEndTime] = useState(null);
   const [text, setText] = useState("");
   const [score, setScore] = useState(0);
-  const [timer, setTimer] = useState(15);
+  const [timer, setTimer] = useState(300);
   const [startTime, setStartTime] = useState(null);
 
   //for input ref
   const inputRef = useRef(null);
-  const keyboardKeys = "This is amazing keyboard";
+  const keyboardKeys = "asdfjkl;";
 
   useEffect(() => {
     document.addEventListener("keydown", handleDown);
@@ -45,7 +45,6 @@ const TypingKeyboardMaster = () => {
       if (currentI === keyboardKeys.length - 1) {
         setEndTime(Date.now());
       }
-      //   setScore(score + 1);
       setCurrentI(currentI + 1);
     }
   };
@@ -57,7 +56,7 @@ const TypingKeyboardMaster = () => {
     setScore(0);
     setStartTime(null);
     setEndTime(null);
-    setTimer(15);
+    setTimer(300);
     setAccuracy(0);
   };
 
