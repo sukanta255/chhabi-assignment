@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import TypingKeyboardMaster from './components/TypingMaster';
+import TypingKeyboardMaster from './components/TypingKeyboardMaster';
 
 function App() {
   return (
