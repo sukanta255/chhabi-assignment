@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+## Chhabi Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is a Keyboard Typing Master where you can type from the above text and you get the result like accuracy, time spent.
 
-## Available Scripts
+## Deployed Link
 
-In the project directory, you can run:
+Visit : https://6472de4012cf416dd3a8438b--subtle-cendol-93b1f9.netlify.app/
 
-### `npm start`
+## Objective:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The key things we are looking for in your submission are:
+1) The approach you take towards building your application. The overall thought process
+& whether you’ve taken multiple customer use-cases into consideration.
+2) Attention to detail
+3) Github link to source code in a deployable state. The link to a demo site is even better.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Description:
+We need to build a web-based application for touch typing. Touch typing is typing
+without looking at the keyboard. The fundamental idea is that each finger is given its own
+section of the keyboard and our fingers learn the location of the keyboard through practising
+regularly and gaining muscle memory to eventually build up speed whilst typing.
+While touch typing is a practice of keys, words & sentences.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Languages Used
 
-### `npm run build`
+This keyboard introduced with React.js
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<ul dir="auto">
+ <ol dir="auto">◉ React </ol>
+</ul>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributers
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-### `npm run eject`
+- [x] Sukanta Pramanik - [GitHub Profile](https://github.com/sukanta255)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+THANK YOU 💕
