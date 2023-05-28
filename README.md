@@ -4,7 +4,7 @@ It is a Keyboard Typing Master where you can type from the above text and you ge
 
 ## Deployed Link
 
-Visit : https://6472de4012cf416dd3a8438b--subtle-cendol-93b1f9.netlify.app/
+Visit : https://cozy-peony-68a057.netlify.app/
 
 ## Objective:
 
