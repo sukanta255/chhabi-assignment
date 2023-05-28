@@ -7,7 +7,7 @@ const TypingKeyboardMaster = () => {
   const [endTime, setEndTime] = useState(null);
   const [text, setText] = useState("");
   const [score, setScore] = useState(0);
-  const [timer, setTimer] = useState(30);
+  const [timer, setTimer] = useState(15);
   const [startTime, setStartTime] = useState(null);
 
   //for input ref
@@ -57,7 +57,7 @@ const TypingKeyboardMaster = () => {
     setScore(0);
     setStartTime(null);
     setEndTime(null);
-    setTimer(30);
+    setTimer(15);
     setAccuracy(0);
   };
 
